@@ -1,4 +1,5 @@
 // Standard template library - Array 
+// Introduced in C++11.
 
 // Array STL.
 

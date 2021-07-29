@@ -1,6 +1,6 @@
 /** 
  * forward_list is like a Singly Linked list
- *
+ * Introduced in C++11 
  */
 
 
