@@ -6,7 +6,7 @@
 
 /** https://en.cppreference.com/w/cpp/container/map **/
 /** https://stackoverflow.com/questions/68645539/how-to-use-emplace-in-map-for-custom-class **/
-
+/** https://stackoverflow.com/questions/68644729/how-to-use-insert-or-assign-in-map-for-custom-class#68644923 **/
 /** If you don't provide move constructor then emplace will call copy constructor, 
  * the other way is called - piecewise_construct, this uses real emplace i.e. in place construction
  */
